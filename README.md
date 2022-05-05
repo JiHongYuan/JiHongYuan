@@ -1,5 +1,3 @@
-TEST
-
 <!--START_SECTION:waka-->
 
 ```text
