@@ -1,3 +1,5 @@
+
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```text
