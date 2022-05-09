@@ -1,6 +1,8 @@
 <!--START_SECTION:waka-->
 
 ```text
+Total Time: 14 hrs 6 mins
+
 Java       10 hrs 9 mins   ██████████████████░░░░░░░   72.00 %
 SQL        1 hr 54 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
 XML        1 hr 47 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
