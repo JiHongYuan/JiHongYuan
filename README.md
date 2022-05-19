@@ -1,4 +1,5 @@
 
+
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
@@ -12,5 +13,10 @@ textmate         30 mins         ▒░░░░░░░░░░░░░░�
 Markdown         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 Properties       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
-
 <!--END_SECTION:waka-->
+
+<p align="left" dir="auto">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=JiHongYuan&show_icons=true&inc">
+  </a>
+</p>
