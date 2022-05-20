@@ -4,15 +4,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 26 hrs 24 mins
+Total Time: 27 hrs 19 mins
 
-Java             22 hrs 24 mins  █████████████████████▒░░░   84.83 %
-XML              1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-SQL              58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-textmate         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Markdown         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Properties       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Java             23 hrs 25 mins  █████████████████████▒░░░   85.75 %
+XML              1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+textmate         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+SQL              31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Markdown         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Properties       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
+
 <!--END_SECTION:waka-->
 
 <p align="left" dir="auto">
