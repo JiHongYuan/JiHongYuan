@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 13 hrs 21 mins
+Total Time: 19 hrs 12 mins
 
-Java             12 hrs 23 mins  ███████████████████████▒░   92.77 %
-XML              54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-Text             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-CLASS            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java         18 hrs 17 mins  ███████████████████████▓░   95.25 %
+XML          53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
