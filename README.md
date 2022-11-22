@@ -4,11 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 hrs 52 mins
+Total Time: 1 hr 36 mins
 
-Java         2 hrs 50 mins   ████████████████████████▓   99.16 %
-Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-CLASS        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Java         1 hr 35 mins    ████████████████████████▓   98.53 %
+Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
